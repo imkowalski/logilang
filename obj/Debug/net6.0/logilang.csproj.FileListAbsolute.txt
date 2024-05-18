@@ -1,0 +1,14 @@
+C:\Users\michal\iCloudDrive\Workspace\logilang\bin\Debug\net6.0\logilang.exe
+C:\Users\michal\iCloudDrive\Workspace\logilang\bin\Debug\net6.0\logilang.deps.json
+C:\Users\michal\iCloudDrive\Workspace\logilang\bin\Debug\net6.0\logilang.runtimeconfig.json
+C:\Users\michal\iCloudDrive\Workspace\logilang\bin\Debug\net6.0\logilang.dll
+C:\Users\michal\iCloudDrive\Workspace\logilang\bin\Debug\net6.0\logilang.pdb
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net6.0\logilang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net6.0\logilang.AssemblyInfoInputs.cache
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net6.0\logilang.AssemblyInfo.cs
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net6.0\logilang.csproj.CoreCompileInputs.cache
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net6.0\logilang.dll
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net6.0\refint\logilang.dll
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net6.0\logilang.pdb
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net6.0\logilang.genruntimeconfig.cache
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net6.0\ref\logilang.dll

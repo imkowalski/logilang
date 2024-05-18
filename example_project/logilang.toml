@@ -1,0 +1,4 @@
+name = "project_name"
+compiler_version = "0.0.1"
+output_mode = "console"
+modules = ["module1", "module2", "module3"]

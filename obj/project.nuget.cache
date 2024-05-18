@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsB/YhNVptcncSsTG+TSsOGWfFxW5vgnSbTg1OqLS9irdsX7RC3uQppQNucL+HCTUrWgtXvQOUY84IL0xjxOHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\michal\\iCloudDrive\\Workspace\\logilang\\logilang.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michal\\.nuget\\packages\\tomlyn\\0.17.0\\tomlyn.0.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
