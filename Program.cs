@@ -1,4 +1,5 @@
 ﻿using System;
+using Interpreter_Func;
 
 
 namespace LogiLang
@@ -10,8 +11,13 @@ namespace LogiLang
             string path = Directory.GetCurrentDirectory();
             Config config = FileLoader.LoadConfig(path);
             string text = FileLoader.LoadFile(path + "\\example_project\\main.ll");
+            int[] test = new int[(int)config.Memory];
+            test[10] = 10;
+            for (int i = 0; i < 15; i++)
+            {
+                Console.WriteLine(test[i]);
+            }
             Interpreter.Run(text);
-            Functions.show([1, 2, 3, 4, 5], 3, 5,true);
         }
     }
 

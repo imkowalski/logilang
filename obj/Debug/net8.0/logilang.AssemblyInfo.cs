@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("logilang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51c6f73769a9a76fae2af710a11207bad0f17d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("logilang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("logilang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

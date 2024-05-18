@@ -15,3 +15,4 @@ C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net8.0\ref\logilang.dll
 C:\Users\michal\iCloudDrive\Workspace\logilang\bin\Debug\net8.0\Tomlyn.dll
 C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net8.0\logilang.csproj.AssemblyReference.cache
 C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net8.0\logilang.csproj.Up2Date
+C:\Users\michal\iCloudDrive\Workspace\logilang\obj\Debug\net8.0\logilang.sourcelink.json

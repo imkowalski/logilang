@@ -1,6 +1,6 @@
-namespace LogiLang
+namespace Interpreter_Func
 {
-    class Interpreter
+    public class Interpreter
     {
         public static void Run(string text)
         {
@@ -20,6 +20,8 @@ namespace LogiLang
                 }
                 parsed.Add("EOL");
             }
+            parsed.RemoveAt(parsed.Count - 1);
+            parsed.Add("EOF");
             foreach (string token in parsed)
             {
                 Console.WriteLine(token);
